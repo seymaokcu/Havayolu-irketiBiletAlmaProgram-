@@ -1,0 +1,4 @@
+İstanbul,Ankara,350
+Diyarbakır,Antalya,300
+İzmir,İstanbul,380
+İstanbul,Antalya,300
